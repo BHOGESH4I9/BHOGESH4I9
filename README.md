@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**BHOGESH4I9/BHOGESH4I9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 Passionate Front-End Developer | Java Full-Stack Enthusiast | 2024 ECE Graduate  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! I'm **Bhogesh Vura**, a 2024 Electronics and Communication Engineering graduate with a strong passion for web development and building user-centric applications. Over the past year, I’ve honed my skills through real-time projects, internships, and constant learning.
+
+---
+
+🧠 **What I Bring to the Table:**
+
+- ✅ Front-End Expertise: HTML, CSS, JavaScript, React.js (with Hooks, Props, Context API)
+- ✅ Back-End Knowledge: Java (Core & Advanced), JDBC, Hibernate, Spring Boot basics
+- ✅ Databases: MySQL, Oracle DB
+- ✅ Tools & Platforms: Git, GitHub, VS Code, Eclipse, Vite, Postman
+- ✅ UI Libraries: Tailwind CSS, Bootstrap
+- ✅ Dev & Deployment: Vercel, Netlify, npm
+
+---
+
+📂 **Projects I've Built:**
+- 🎬 **Netflix Clone** – Fully responsive React-based UI built with Vite and deployed on Vercel.
+- 🛒 **Amazon Clone** – E-commerce UI built using HTML, CSS, and JavaScript with cart and tracking features.
+- 🧮 **Data Structures Visualizer** – Java Swing app with interactive navigation for Arrays, Stacks, Queues, and Linked Lists.
+- 👨‍💼 **Employee Management System** – JDBC + JFrame desktop app for CRUD operations and record management.
+
+---
+
+🎯 **Currently Working On:**
+- A dynamic full-stack eCommerce app with **React**, **Spring Boot**, and **MySQL**
+- Enhancing UI/UX design skills and mastering custom hooks, context-based state management, and performance optimization in React.
+
+---
+
+📌 **Goals:**
+- Contribute to real-time, scalable applications.
+- Join a dynamic software team where I can learn, build, and grow.
+- Keep leveling up as a full-stack developer.
+
+---
+
+📫 **Let's Connect!**
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhogesh-vura/)
+- 📩 Drop me a message or explore my pinned projects below 👇
+
