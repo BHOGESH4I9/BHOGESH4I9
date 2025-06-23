@@ -9,7 +9,7 @@ Hi there! I'm **Bhogesh Vura**, a 2024 Electronics and Communication Engineering
 
 🧠 **What I Bring to the Table:**
 
-- ✅ Front-End Expertise: HTML, CSS, JavaScript, React.js (with Hooks, Props, Context API)
+- ✅ Front-End Expertise: HTML, CSS, JavaScript, React.js
 - ✅ Back-End Knowledge: Java (Core & Advanced), JDBC, Hibernate, Spring Boot basics
 - ✅ Databases: MySQL, Oracle DB
 - ✅ Tools & Platforms: Git, GitHub, VS Code, Eclipse, Vite, Postman
@@ -27,7 +27,7 @@ Hi there! I'm **Bhogesh Vura**, a 2024 Electronics and Communication Engineering
 ---
 
 🎯 **Currently Working On:**
-- A dynamic full-stack eCommerce app with **React**, **Spring Boot**, and **MySQL**
+- A dynamic full-stack eCommerce app with **JavaScript**, **React**, **Spring Boot**, and **MySQL**
 - Enhancing UI/UX design skills and mastering custom hooks, context-based state management, and performance optimization in React.
 
 ---
