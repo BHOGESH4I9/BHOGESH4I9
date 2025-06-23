@@ -19,8 +19,8 @@ Hi there! I'm **Bhogesh Vura**, a 2024 Electronics and Communication Engineering
 ---
 
 📂 **Projects I've Built:**
-- 🎬 **Netflix UI APP** – Fully responsive React-based UI built with Vite and deployed on Vercel.
-- 🛒 **Amazon UI APP** – E-commerce UI built using HTML, CSS, and JavaScript with cart and tracking features.
+- 🎬 **StreamFlex-App** – Fully responsive React-based UI built with Vite and deployed on Vercel.
+- 🛒 **Amazon-Mockup-Site** – E-commerce UI built using HTML, CSS, and JavaScript with cart and tracking features.
 - 🧮 **Data Structures Visualizer** – Java Swing app with interactive navigation for Arrays, Stacks, Queues, and Linked Lists.
 - 👨‍💼 **Employee Management System** – JDBC + JFrame desktop app for CRUD operations and record management.
 
